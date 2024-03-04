@@ -1,6 +1,6 @@
 # Restaurant Menu
 
-one the very first projects that i made when i first started learning programming 
+the very first projects that i made when i first started learning programming 
 
 all the diffrent versions are for before i started using git
 
